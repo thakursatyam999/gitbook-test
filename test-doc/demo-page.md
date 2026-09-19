@@ -1,5 +1,4 @@
 ---
-description: Connect Harness to Jenkins using a Harness Jenkins Connector.
 title: Connect to Jenkins
 sidebar_position: 1
 helpdocs_topic_id: 7frr40zml5
@@ -10,10 +9,10 @@ nodeTitle: Connect to Jenkins
 inputFilePath: docs/platform/connectors/artifact-repositories/connect-to-jenkins.md
 originalUrl: >-
   https://developer.harness.io/docs/platform/connectors/artifact-repositories/connect-to-jenkins/
+description: Connect Harness to Jenkins using a Harness Jenkins Connector.
 ---
 
-
-# Connect to Jenkins
+# Demo Page
 
 Continuous Integration (CI) can be performed in Harness using the CI module and [CI pipelines](https://app.gitbook.com/s/qKtVmwAGTfGQS1MVC97G/new-to-harness-ci/key-concepts).
 
@@ -65,8 +64,6 @@ Enter the URL of the Jenkins master or controller.
 If you are using the Jenkins SaaS (cloud) edition, the URL is in your browser's location field.
 
 If you are using the standalone edition of Jenkins, the URL is located in **Manage Jenkins**, **Jenkins Location**:
-
-![](../../../.gitbook/assets/connect-to-jenkins-10.png)
 
 #### Step 3: Authentication <a href="#step-3-authentication" id="step-3-authentication"></a>
 
