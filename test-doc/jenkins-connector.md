@@ -32,7 +32,7 @@ Harness does support SAML authentication for Jenkins connections.
 
 ***
 
-### Steps to add a Jenkins connector
+## Steps to add a Jenkins connector
 
 You can add a Jenkins connector at the project, org, or account scope. This procedure covers the project scope, and the process is the same for org and account. You can also add a Jenkins connector directly when you configure the Jenkins step in a pipeline.
 
@@ -59,6 +59,10 @@ The Harness Jenkins connector is added.
 Follow the interactive guide below for a step-by-step walkthrough:
 
 {% embed url="https://app.arcade.software/share/le2HDcHZKjZI67MEIlcb" %}
+
+## Sample YAML
+
+The following example shows a YAML for the Jenkins connector created in this guide.
 
 <details>
 
