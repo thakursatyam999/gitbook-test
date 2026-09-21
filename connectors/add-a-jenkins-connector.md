@@ -1,8 +1,7 @@
 ---
-description: Connect Harness to Jenkins using a Harness Jenkins connector.
+title: Add a Jenkins connector
+description: Documentation for the provisioning of Jenkins Registry connectors.
 ---
-
-# Connect to Jenkins
 
 You can perform Continuous Integration (CI) in Harness using the CI module and [CI pipelines](https://app.gitbook.com/s/qKtVmwAGTfGQS1MVC97G/new-to-harness-ci/key-concepts). If you use Harness Continuous Delivery (CD) but not Harness CI, you can still perform CI using the **Jenkins** step in a CD stage.
 
@@ -33,7 +32,7 @@ Harness does support SAML authentication for Jenkins connections.
 
 ***
 
-### Add a Jenkins connector
+### Steps to add a Jenkins connector
 
 You can add a Jenkins connector at the project, org, or account scope. This procedure covers the project scope, and the process is the same for org and account. You can also add a Jenkins connector directly when you configure the Jenkins step in a pipeline.
 
@@ -56,6 +55,10 @@ Perform the following steps to add a Jenkins connector:
 9. Click **Finish** after the connection test succeeds. 
 
 The Harness Jenkins connector is added.
+
+Follow the interactive guide below for a step-by-step walkthrough:
+
+{% embed url="https://app.arcade.software/share/le2HDcHZKjZI67MEIlcb" %}
 
 <details>
 

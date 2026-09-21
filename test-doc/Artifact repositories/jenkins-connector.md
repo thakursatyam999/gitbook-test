@@ -34,11 +34,7 @@ Harness does support SAML authentication for Jenkins connections.
 
 ***
 
-<<<<<<< HEAD
 ## Steps to add a Jenkins connector
-=======
-#### Steps to add a Jenkins connector
->>>>>>> 93df27fb53a320fcaf59a22ce4d0153f5394d2ae
 
 You can add a Jenkins connector at the project, org, or account scope. This procedure covers the project scope, and the process is the same for org and account. You can also add a Jenkins connector directly when you configure the Jenkins step in a pipeline.
 
@@ -96,6 +92,6 @@ connector:
 
 ***
 
-### Next steps
+## Next steps
 
 * [Run Jenkins jobs in CD pipelines](https://app.gitbook.com/s/y1JhZ4oKIppwY7d5AhPj/use-continuous-delivery/cd-building-blocks/cd-steps/builds/run-jenkins-jobs-in-cd-pipelines): configure a Jenkins step to run Jenkins jobs in your pipeline.
