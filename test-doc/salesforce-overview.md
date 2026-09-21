@@ -93,9 +93,9 @@ The infrastructure definition for Salesforce is straightforward. It only require
 1. In your Harness project, go to **Environments**.
 2. Select an existing environment, or click on **New Environment** to create a new one. 
 3. Configure the environment:
-   - Enter a name for the environment. Optionally, add a description and tags.
-   - Select the **Environment Type**.
-   - Save the configuration.
+   * Enter a name for the environment. Optionally, add a description and tags.
+   * Select the **Environment Type**.
+   * Save the configuration.
 
 ![](../../../.gitbook/assets/sf-env-1.png)
 
