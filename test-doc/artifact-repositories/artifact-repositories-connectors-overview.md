@@ -2,7 +2,7 @@
 description: Overview of the artifact repository connectors available in Harness, where to add them, and how they differ from cloud provider connectors.
 ---
 
-# Artifact repository connectors
+# Overview
 
 You connect Harness to an artifact repository by adding an **Artifact Repositories** connector. Once you add the connector, it is available in Pipelines and in Connectors of the same Account, Org, or Project.
 
