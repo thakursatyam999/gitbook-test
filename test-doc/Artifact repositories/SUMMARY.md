@@ -1,5 +1,14 @@
-# Table of contents
-
-* [README](README.md)
-* [Add a Jenkins Connector](jenkins-connector.md)
-
+[Artifact repositories](use-harness-platform/connectors/artifact-repositories/README.md)
+    * [Overview](use-harness-platform/connectors/artifact-repositories/artifact-repositories-connectors-overview.md)
+    * [Connect to Jenkins](use-harness-platform/connectors/artifact-repositories/add-a-jenkins-connector.md)
+    * [Connect to Artifactory](use-harness-platform/connectors/artifact-repositories/add-an-artifactory-connector.md)
+    * [Connect to Docker registry](use-harness-platform/connectors/artifact-repositories/add-a-docker-registry-connector.md)
+      * [Connect to the Harness Container Image Registry](use-harness-platform/connectors/artifact-repositories/connect-to-harness-container-image-registry-using-docker-connector.md)
+      * [Connect to IBM Cloud Container Registry](use-harness-platform/connectors/artifact-repositories/using-ibm-registry-to-create-a-docker-connector.md)
+    * [Connect to an HTTP Helm repository](use-harness-platform/connectors/artifact-repositories/add-an-http-helm-repo-connector.md)
+    * [Connect to an OCI Helm registry](use-harness-platform/connectors/artifact-repositories/add-an-oci-helm-registry-connector.md)
+    * [Connect to Nexus](use-harness-platform/connectors/artifact-repositories/add-a-nexus-connector.md)
+    * [Artifact repository connectors references](use-harness-platform/connectors/artifact-repositories/ref-artifact-repositories/README.md)
+      * [Artifactory Connector Settings Reference](use-harness-platform/connectors/artifact-repositories/ref-artifact-repositories/artifactory-connector-settings-reference.md)
+      * [Docker Registry Connector Settings Reference](use-harness-platform/connectors/artifact-repositories/ref-artifact-repositories/docker-registry-connector-settings-reference.md)
+      * [Nexus Connector Settings Reference](use-harness-platform/connectors/artifact-repositories/ref-artifact-repositories/nexus-connector-settings-reference.md)

@@ -6,3 +6,5 @@
 * [Deploy a Salesforce Package](deploy-salesforce-package.md)
 * [Salesforce Deployment Dashboard](salesforce-deployment-dashboard.md)
 * [Salesforce Manual Deployments](salesforce-manual-deployments.md)
+* [Salesforce Quick Deploy](salesforce-quick-deploy.md)
+* [Salesforce Scratch Org](salesforce-scratch-org)
